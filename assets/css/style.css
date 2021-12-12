@@ -51,11 +51,11 @@ p {
 
 /* HERO */
 .hero {
+    background-image: url("../images/banner.png");
+    background-size: cover;
     height: 250px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/banner.png");
-    background-size: cover;
     background-position: center;
 }
 
@@ -64,3 +64,22 @@ p {
     height: auto;
     position: relative;
   }
+
+  /* About Me Styles */
+  .about-me {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: flex-start;
+      width: 100%;
+      margin: 20px 0;
+  }
+
+  .about-me p {
+    width: 70%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
