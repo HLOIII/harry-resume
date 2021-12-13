@@ -26,3 +26,5 @@ Had to make sure my links worked
 
 
 Link to website: https://hloiii.github.io/harry-resume/
+
+assets/images/webpage.PNG
