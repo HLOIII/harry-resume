@@ -24,7 +24,7 @@ p {
     font-size: 16px;
 }
 
-/* HEADER */
+/* Header Section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,7 +56,12 @@ p {
     text-decoration: underline;
 }
 
-
+header nav ul li a:hover {
+    background:#e6e6ff;
+    color: var(--primary-color);
+    border-radius: 15px;
+    text-shadow: none;
+}
 
 
 
@@ -118,7 +123,7 @@ p {
     color: var(--primary-color);
 }
 
-.content {
+.main {
     width: 70%;
     margin: 30px 0;
 }
