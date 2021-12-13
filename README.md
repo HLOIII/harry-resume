@@ -1,7 +1,8 @@
 #portfolio
 Professional Portfolio
 Advanced CSS Challenge: Professional Portfolio:
-My Task:
+
+Acceptance Criteria
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -15,6 +16,13 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+My Task:
+Had to add my name, profile picture, about me, my work and contact me sections
+Had to make sure the website is mobile responsive
+First Project has to be larger than the rest
+Had to add work samples
+Had to make sure my links worked
 
 
 Link to website: https://hloiii.github.io/harry-resume/
