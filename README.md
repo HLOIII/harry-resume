@@ -27,4 +27,4 @@ Had to make sure my links worked
 
 Link to website: https://hloiii.github.io/harry-resume/
 
-https://github.com/HLOIII/harry-resume/blob/01a200d581360fa2f11c5b25a4813d4b4fa47171/assets/images/webpage.PNG
+![screenshot](assets/images/webpage.PNG
