@@ -143,7 +143,7 @@ header nav ul li a:hover {
 }
 
  /* Grid Styles */
-.grid {
+.main {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
@@ -180,7 +180,7 @@ header nav ul li a:hover {
     grid-row: span 2;
  }
 
- .grid a {
+ .main a {
     height: 200px;
  }
 
@@ -193,11 +193,11 @@ header nav ul li a:hover {
 }
 
 .project-4 a {
-    background-image: url(../images/password-generator.jpg);
+    background-image: url(../images/hourglass.jpg);
 }
 
 .project-5 a {
-    background-image: url(../images/pizza-hunt.jpg);
+    background-image: url(../images/egg.jpg);
 }
 
 
