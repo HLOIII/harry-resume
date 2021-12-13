@@ -1,7 +1,7 @@
 :root {
     --primary-color: #fce138;
-    --secondary-color: #024e76;
-    --tertiary-color: #39a6b2;
+    --secondary-color: #141d2c;
+    --tertiary-color: #703645;
   }
 
   * {
@@ -17,8 +17,8 @@
 
 /* Header Section*/
 header {
-    color: var(--tertiary-color);
-    background-color: var(--secondary-color);
+    color: black;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -32,7 +32,7 @@ header h1 {
     margin: 10px 0 10px;
     background-color: var(--tertiary-color);
     color: var(--secondary-color);
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    text-shadow: 0 0 10px rgba(255, 254, 254, 0.5);
 }
 
 header a {
@@ -88,7 +88,7 @@ header nav ul li a:hover {
   .cool-subtitle-here {
     text-align: right;
     color: white;
-    background-color:#00ccff ;
+    background-color:#703645 ;
     margin-bottom: 20px;
     margin-right: 20px;
     font-size: 30px;
@@ -131,10 +131,10 @@ header nav ul li a:hover {
     flex: initial;
     justify-content: center;
     padding-right: 15px;
-    border-right: solid 5px crimson;
+    border-right: solid 5px #141d2c;
     text-align: right;
     margin: 20px 0;
-    color: red;
+    color: #141d2c;
 }
 
 .content {
@@ -153,7 +153,7 @@ header nav ul li a:hover {
     grid-auto-flow: dense;
 }
 
-.project-1 {
+.one {
     margin-bottom: 30px;
     margin-left: 20px;
     width: 100%;
@@ -165,7 +165,7 @@ header nav ul li a:hover {
     flex-direction: column;
     justify-content: flex-end;
     opacity: 0.5;
-    border: solid 2px var(--primary-color);
+    border: solid 4px #703645;
 
 }
 
@@ -173,7 +173,7 @@ header nav ul li a:hover {
     opacity: 1;
  }
 
-.project-1 a {
+.one a {
     height: 410px;
     background-image: url(../images/runbuddy.jpg);
     grid-column:  span 2;
@@ -184,19 +184,19 @@ header nav ul li a:hover {
     height: 200px;
  }
 
-.project-2 a {  
+.two a {  
     background-image: url(../images/horiseon.jpg);
 }
 
-.project-3 a {
+.three a {
     background-image: url(../images/pocketwatch.jpg);
 }
 
-.project-4 a {
+.four a {
     background-image: url(../images/hourglass.jpg);
 }
 
-.project-5 a {
+.five a {
     background-image: url(../images/egg.jpg);
 }
 
