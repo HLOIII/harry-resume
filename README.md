@@ -18,11 +18,20 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 My Task:
-Had to add my name, profile picture, about me, my work and contact me sections
+Had to add my name 
+profile picture
+about me
+my work and contact me sections
 Had to make sure the website is mobile responsive
 First Project has to be larger than the rest
 Had to add work samples
 Had to make sure my links worked
+
+Resources I used:
+I mostly used the information I was given from my class and I used "MDN Web Docs","W3schools", Google, Youtube.
+
+Why did I build this project:
+A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position.
 
 
 Link to website: https://hloiii.github.io/harry-resume/
