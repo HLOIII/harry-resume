@@ -95,6 +95,36 @@ p {
     flex-wrap: wrap;
 }
 
+/* Work Section */
+.work  {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.work h2 {
+    justify-content: center;
+}
+.section-title {
+    font-size: 38px;
+    width: 20%;
+    display: flex;
+    flex: initial;
+    justify-content: center;
+    padding-right: 15px;
+    border-right: solid 5px var(--primary-color);
+    text-align: right;
+    margin: 20px 0;
+    color: var(--primary-color);
+}
+
+.content {
+    width: 70%;
+    margin: 30px 0;
+}
+
+
+/* Main Section */
 .run-buddy {
     margin-bottom: 30px;
     margin-left: 20px;
